@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04_MarketScanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a6a34c29f1ae14fb66e7d6e73ea4be2ea09ae3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+309b1009bc45acedb84c28d4d7f99cad0118c14f")]
 [assembly: System.Reflection.AssemblyProductAttribute("04_MarketScanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04_MarketScanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

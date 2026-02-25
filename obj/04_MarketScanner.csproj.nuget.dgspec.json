@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\BlockChain\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj": {}
+    "C:\\Cursos\\BlockChain\\Nivel1\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\BlockChain\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj": {
+    "C:\\Cursos\\BlockChain\\Nivel1\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\BlockChain\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj",
+        "projectUniqueName": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj",
         "projectName": "04_MarketScanner",
-        "projectPath": "C:\\Cursos\\BlockChain\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj",
+        "projectPath": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\BlockChain\\Etapa4\\MarketScan\\04_MarketScanner\\obj\\",
+        "outputPath": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa4\\MarketScan\\04_MarketScanner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

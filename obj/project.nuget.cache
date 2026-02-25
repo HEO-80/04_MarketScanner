@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9P0VvQUAd20=",
+  "dgSpecHash": "GTDsPTe981M=",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\BlockChain\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj",
+  "projectFilePath": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\adraffy.ensnormalize\\0.3.1\\adraffy.ensnormalize.0.3.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
@@ -32,9 +32,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Newtonsoft.Json' 11.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
-      "projectPath": "C:\\Cursos\\BlockChain\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj",
+      "projectPath": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Cursos\\BlockChain\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj",
+      "filePath": "C:\\Cursos\\BlockChain\\Nivel1\\Etapa4\\MarketScan\\04_MarketScanner\\04_MarketScanner.csproj",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net10.0"
